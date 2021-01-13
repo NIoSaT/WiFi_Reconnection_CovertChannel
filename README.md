@@ -4,7 +4,7 @@ This repository contains the proof-of-concept code provided for the review proce
 
 S. Zillien, S. Wendzel: *Reconnection-based Covert Channels in Wireless Networks* (submitted to IFIP SEC 2021 in January 2021).
 
-The full documentation will be made public in parallel to the camera-ready paper version in case of acceptance.
+The full documentation will be made public in parallel to the camera-ready paper version in case of acceptance. The code was implemented by S. Zillien.
 
 ## Quick Start Guide
 
