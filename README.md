@@ -1,8 +1,8 @@
 # WiFi Reconnection-based Covert Channel Implementation
 
-This repository contains the proof-of-concept code provided for the review process of the following paper:
+This repository contains the proof-of-concept code for the following paper:
 
-S. Zillien, S. Wendzel: *Reconnection-based Covert Channels in Wireless Networks* (submitted to IFIP SEC 2021 in January 2021).
+S. Zillien, S. Wendzel: *Reconnection-based Covert Channels in Wireless Networks*, in Proc. 36th IFIP TC-11 International Information Security and Privacy Conference (*IFIP SEC 2021*), Springer, 2021 (in press).
 
 The full documentation will be made public in parallel to the camera-ready paper version in case of acceptance (for now, the details of the covert channels are only described in the submitted paper). The code was implemented by S. Zillien.
 
