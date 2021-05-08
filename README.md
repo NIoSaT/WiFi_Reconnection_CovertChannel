@@ -4,7 +4,7 @@ This repository contains the proof-of-concept code for the following paper:
 
 S. Zillien, S. Wendzel: *Reconnection-based Covert Channels in Wireless Networks*, in Proc. 36th IFIP TC-11 International Information Security and Privacy Conference (*IFIP SEC 2021*), Springer, 2021 (in press).
 
-We present two covert channels that communicate by triggering artificial reconnections of WiFi nodes. The paper is still in press, but **we are happy to provide the paper via e-mail**!). The code was implemented by S. Zillien.
+We present two covert channels that communicate by triggering artificial reconnections of WiFi nodes. The paper is still in press, but **we are happy to provide the paper via e-mail and on request via [ResearchGate](https://www.researchgate.net/publication/350877087_Reconnection-based_Covert_Channels_in_Wireless_Networks)**!). The code was implemented by S. Zillien.
 
 ## Quick Start Guide
 
